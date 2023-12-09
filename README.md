@@ -15,7 +15,6 @@ pip install mediapipe
 pip install pydub
 pip install RPi.GPIO
 pip install numpy
-
 ```
 
 ## Why this project 
