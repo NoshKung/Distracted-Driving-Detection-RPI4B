@@ -21,6 +21,3 @@ pip install numpy
 
 ## Why this project 
 This project not only aids in preventing accidents and promoting road safety but also encourages the use of technology to address critical public safety issues effectively.
-
-## ทำไมถึงทำโปรเจกต์นี้
-การทำโปรเจค Distracted Driving Detection นี้ไม่เพียงแต่ช่วยในการป้องกันอุบัติเหตุและเสริมสร้างความปลอดภัยทางถนน แต่ยังเป็นโครงการที่ส่งเสริมการใช้เทคโนโลยีในการแก้ไขปัญหาทางสาธารณะที่สำคัญได้ดี
