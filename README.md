@@ -16,11 +16,11 @@ pip install pydub
 pip install RPi.GPIO
 pip install numpy
 ```
-## Note
-Must be used on raspberry pi boards.
-
 ## Why this project 
 This project not only aids in preventing accidents and promoting road safety but also encourages the use of technology to address critical public safety issues effectively.
 
 ## This project I have developed in addition to :
 Github : https://github.com/saktheeswaranswan/driver-alert-system-eye-blink-media-pipe
+
+## Note
+Must be used on raspberry pi boards.
