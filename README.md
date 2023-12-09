@@ -3,7 +3,6 @@
 
 ## Installation // วิธีการติดตั้ง
 This projects runs on Python 3.9 with the following libraries:
-
 - OpenCV (opencv-python)
 - mediapipe
 - pydub
