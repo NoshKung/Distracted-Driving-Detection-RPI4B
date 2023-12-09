@@ -1,5 +1,5 @@
 # Distracted-Driving-Detection-RPI4B
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Raspberry]([[https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white](https://www.raspberrypi.com/documentation/computers/os.html)](https://www.raspberrypi.com/documentation/computers/os.html))
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Raspberry]([[[https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white](https://www.raspberrypi.com/documentation/computers/os.html)](https://www.raspberrypi.com/documentation/computers/os.html)](https://www.raspberrypi.com/for-home/))
 
 ## Installation // วิธีการติดตั้ง
 This projects runs on Python 3.9 with the following libraries:
